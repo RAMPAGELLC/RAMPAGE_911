@@ -2,7 +2,7 @@ fx_version 'cerulean'
 lua54 'yes'
 games {'rdr3', 'gta5'}
 
-name 'RAMPAGE_Jail'
+name 'RAMPAGE_911'
 author 'RAMPAGE Interactive'
 
 dependencies 'ox_lib'
